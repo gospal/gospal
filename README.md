@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gospal
+- 👀 I’m interested in javascript & python 
+- 🌱 I’m currently learning to use github
+- 💞️ I’m looking to collaborate on applications software builds
+- How to reach me - 📫
